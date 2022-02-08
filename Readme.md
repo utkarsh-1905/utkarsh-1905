@@ -1,6 +1,5 @@
 <html>
 <head>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </head>
 <body>
 <img src="./bg-3.gif" style="margin-bottom:50px"/>
@@ -43,32 +42,32 @@ Hey 👋,I am an engineering student and a software developer with experience in
 - Solidity
 - Postman Student Expert **(API Testing)**
 </div>
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/-ZD1vazFQWedkt3jT44vwg?identity__email=utripathi2002%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/-ZD1vazFQWedkt3jT44vwg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman Student Expert</p><p style="margin: 16px 0; padding: 0;"><a class="badgr-badge-verify" target="_blank" href="https://badgecheck.io?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2F-ZD1vazFQWedkt3jT44vwg%3Fidentity__email%3Dutripathi2002%2540gmail.com&amp;identity__email=utripathi2002%40gmail.com" style="box-sizing: content-box; display: flex; align-items: center; justify-content: center; margin: 0; font-size:14px;color:white; font-weight: bold; width: 48px; height: 16px; border-radius: 4px; border: solid 1px black; text-decoration: none; padding: 6px 16px; margin: 16px 0; color: black;">VERIFY</a></p><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/-ZD1vazFQWedkt3jT44vwg?identity__email=utripathi2002%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/-ZD1vazFQWedkt3jT44vwg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman Student Expert</p></blockquote>
 <hr/>
 <div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
-<i style="font-size:48px" class="devicon-nodejs-plain-wordmark colored"></i>
-<i style="font-size:48px" class="devicon-react-original-wordmark colored"></i>
-<i style="font-size:48px" class="devicon-express-original-wordmark"></i>
-<i style="font-size:48px" class="devicon-javascript-plain colored"></i>
-<i style="font-size:48px" class="devicon-github-original"></i>
-<i style="font-size:48px" class="devicon-mongodb-plain-wordmark colored"></i>
-<i style="font-size:48px" class="devicon-html5-plain-wordmark colored"></i>
-<i style="font-size:48px" class="devicon-css3-plain-wordmark colored"></i>
-<i style="font-size:48px" class="devicon-markdown-original colored"></i>
-<i style="font-size:48px" class="devicon-npm-original-wordmark colored"></i>
-<i style="font-size:48px" class="devicon-bootstrap-plain colored"></i>
-<i style="font-size:48px" class="devicon-tailwindcss-plain colored"></i>
-<i style="font-size:48px" class="devicon-vscode-plain colored"></i>
-<i style="font-size:48px" class="devicon-c-line colored"></i>
-<i style="font-size:48px" class="devicon-java-plain colored"></i>
-<i style="font-size:48px" class="devicon-go-plain colored"></i>
-<i style="font-size:48px" class="devicon-figma-plain colored"></i>
-<i style="font-size:48px" class="devicon-canva-original colored"></i>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="40px" style="color:white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 <hr/>
 <div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
-<img align="center"  style="margin:2%"  src="https://github-readme-stats.vercel.app/api?username=utkarsh-1905&count_private=true&hide=issues,stars&show_icons=true&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&icon_color=313552&custom_title=My Github Stats"/>
-<img align="center"  style="margin:2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-1905&layout=compact&bg_color=80,c9ffbf,ffafbd&text_color=886f6f&title_color=313552"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1905&count_private=true&hide=issues,stars&show_icons=true&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&icon_color=313552&custom_title=My Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-1905&layout=compact&bg_color=80,c9ffbf,ffafbd&text_color=886f6f&title_color=313552"/>
 </div>
 </body>
 </html>
