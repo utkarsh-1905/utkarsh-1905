@@ -65,9 +65,9 @@ Hey 👋,I am an engineering student and a software developer with experience in
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 <hr/>
-<div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1905&count_private=true&hide=issues,stars&show_icons=true&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&icon_color=313552&custom_title=My Github Stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-1905&layout=compact&bg_color=80,c9ffbf,ffafbd&text_color=886f6f&title_color=313552"/>
-</div>
+
+<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1905&count_private=true&show_icons=true&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&icon_color=313552&custom_title=My Github Stats"/>
+<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-1905&layout=compact&bg_color=80,c9ffbf,ffafbd&text_color=886f6f&title_color=313552"/>
+<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=e869887b-66f1-475e-8b9e-3a5029e99330&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f"/>
 </body>
 </html>
