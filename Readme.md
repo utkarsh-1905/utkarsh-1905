@@ -30,6 +30,8 @@ Hey 👋,I am an engineering student and a software developer with experience in
 - 🧑‍💻 Learning Blockchain developement and using solidity to create smart contracts.
 - 📚 Always trying to learn new technologies and frameworks and programming paradigms.
 
+* :handshake: I'm looking to collaborate with other developers and designers to create front-end and back-end applications.
+
 **Skills ⛰️**
 
 - 💻 Node.js **(Express.js)**
@@ -46,16 +48,17 @@ Hey 👋,I am an engineering student and a software developer with experience in
 <div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
 <i style="font-size:48px" class="devicon-nodejs-plain-wordmark colored"></i>
 <i style="font-size:48px" class="devicon-react-original-wordmark colored"></i>
+<i style="font-size:48px" class="devicon-express-original-wordmark"></i>
 <i style="font-size:48px" class="devicon-javascript-plain colored"></i>
-<i style="font-size:48px" class="devicon-express-original-wordmark colored"></i>
+<i style="font-size:48px" class="devicon-github-original"></i>
 <i style="font-size:48px" class="devicon-mongodb-plain-wordmark colored"></i>
 <i style="font-size:48px" class="devicon-html5-plain-wordmark colored"></i>
 <i style="font-size:48px" class="devicon-css3-plain-wordmark colored"></i>
 <i style="font-size:48px" class="devicon-markdown-original colored"></i>
 <i style="font-size:48px" class="devicon-npm-original-wordmark colored"></i>
+<i style="font-size:48px" class="devicon-bootstrap-plain colored"></i>
 <i style="font-size:48px" class="devicon-tailwindcss-plain colored"></i>
 <i style="font-size:48px" class="devicon-vscode-plain colored"></i>
-<i style="font-size:48px" class="devicon-webstorm-plain colored"></i>
 <i style="font-size:48px" class="devicon-c-line colored"></i>
 <i style="font-size:48px" class="devicon-java-plain colored"></i>
 <i style="font-size:48px" class="devicon-go-plain colored"></i>
