@@ -12,7 +12,8 @@
 <a href="" style="margin:20px"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="mailto:utripathi2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img style="margin-top:20px;margin-left:20px" align="center" src="https://komarev.com/ghpvc/?username=utkarsh-1905&style=plastic&color=ffafbd"/>
+<a><img style="margin-top:20px;margin-left:20px" align="center" src="https://komarev.com/ghpvc/?username=utkarsh-1905&style=plastic&color=ffafbd"/></a>
+<a href="https://wakatime.com/@e869887b-66f1-475e-8b9e-3a5029e99330"><img src="https://wakatime.com/badge/user/e869887b-66f1-475e-8b9e-3a5029e99330.svg" alt="Total time coded since Feb 8 2022" /></a>
 </div>
 
 <div style="margin-top:50px">
