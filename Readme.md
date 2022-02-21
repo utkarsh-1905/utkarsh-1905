@@ -70,5 +70,6 @@ Hey 👋,I am an engineering student and a software developer with experience in
 <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1905&count_private=true&show_icons=true&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&icon_color=313552&custom_title=My Github Stats"/>
 <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-1905&layout=compact&bg_color=80,c9ffbf,ffafbd&text_color=886f6f&title_color=313552"/>
 <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=utkarsh1905&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&v=2"/>
+<img style="margin-bottom:20px;display:flex;flex:1" src="https://activity-graph.herokuapp.com/graph?username=utkarsh-1905&theme=xcode&hide_title=true&area=true"/>
 </body>
 </html>
