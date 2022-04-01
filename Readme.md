@@ -25,10 +25,11 @@ Hey 👋,I am an engineering student and a software developer with experience in
 - 📕 Currently, I am studying Electronics and Computer engineering.
 - 💻 I am Web developer with a passion for learning new technologies and solving problems.
 - 🌐 I am a huge fan of the open source ecosystem and I love contributing to open source projects.
-- 🚀 I have made some cool projects including an International Space station tracker. :artificial_satellite: and a Discord Bot 🤖
-- 🌠 Working on my portfolio website.
+- 🚀 I have made some cool projects including an [International Space station tracker](https://github.com/utkarsh-1905/ISS-Tracker). :artificial_satellite: and a [Discord Bot](https://github.com/utkarsh-1905/mot-bot-discord) 🤖, an app to find [campgrounds](https://github.com/utkarsh-1905/yelp-camp) and a wireless and secure protocol to transfer secure data from BEML machines to cloud database which can be found [here](https://github.com/utkarsh-1905/Makeathon-Submisson).
+- 🌠 Recently, I won a Hackathon by MLSC, TIET, Patiala.
 - 🧑‍💻 Learning Blockchain developement and using solidity to create smart contracts.
 - 📚 Always trying to learn new technologies and frameworks and programming paradigms.
+- 📝 Currently, I am **interning** at Enterprof as a Blockchain developer.
 
 * :handshake: I'm looking to collaborate with other developers and designers to create front-end and back-end applications.
 
@@ -37,10 +38,11 @@ Hey 👋,I am an engineering student and a software developer with experience in
 - 💻 Node.js **(Express.js)**
 - Javascript
 - React.js
+- Solidity
+- Ethereum, Truffle, Hardhat
 - MongoDB
 - Tailwind CSS & Bootstrap
 - 📝 HTML & CSS
-- Solidity
 - Postman Student Expert **(API Testing)**
 </div>
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/-ZD1vazFQWedkt3jT44vwg?identity__email=utripathi2002%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/-ZD1vazFQWedkt3jT44vwg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman Student Expert</p></blockquote>
@@ -67,9 +69,10 @@ Hey 👋,I am an engineering student and a software developer with experience in
 </div>
 <hr/>
 
-<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1905&count_private=true&show_icons=true&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&icon_color=313552&custom_title=My Github Stats"/>
+<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-1905&theme=gotham&hide_border=true"/>
+<!-- <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1905&count_private=true&show_icons=true&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&icon_color=313552&custom_title=My Github Stats"/> -->
 <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-1905&layout=compact&bg_color=80,c9ffbf,ffafbd&text_color=886f6f&title_color=313552"/>
 <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=utkarsh1905&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&v=2"/>
-<img style="margin-bottom:20px;display:flex;flex:1" src="https://activity-graph.herokuapp.com/graph?username=utkarsh-1905&theme=xcode&hide_title=true&area=true"/>
+<img style="margin-bottom:20px;display:flex;flex:1" src="https://activity-graph.herokuapp.com/graph?username=pranav2811&theme=xcode&hide_title=true&area=true"/>
 </body>
 </html>
