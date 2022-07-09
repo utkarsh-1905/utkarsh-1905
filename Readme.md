@@ -9,7 +9,7 @@
 </a>
 <a href="https://github.com/utkarsh-1905" style="margin:20px"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="" style="margin:20px"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://medium.com/@utripathi2002" style="margin:20px"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 <a href="mailto:utripathi2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a><img style="margin-top:20px;margin-left:20px" align="center" src="https://komarev.com/ghpvc/?username=utkarsh-1905&style=plastic&color=ffafbd"/></a>
@@ -23,11 +23,12 @@ Hey 👋,I am an engineering student and a software developer with experience in
 
 - 🤠 He/Him
 - 📕 Currently, I am studying Electronics and Computer engineering.
-- 💻 I am Web developer with a passion for learning new technologies and solving problems.
+- 💻 I am Web3 developer with a passion for learning new technologies and solving problems in this emerging feild.
+- 📖 Publishing blogs on [Medium](https://medium.com/@utripathi2002).
 - 🌐 I am a huge fan of the open source ecosystem and I love contributing to open source projects.
-- 🚀 I have made some cool projects including an [International Space station tracker](https://github.com/utkarsh-1905/ISS-Tracker). :artificial_satellite: and a [Discord Bot](https://github.com/utkarsh-1905/mot-bot-discord) 🤖, an app to find [campgrounds](https://github.com/utkarsh-1905/yelp-camp) and a wireless and secure protocol to transfer secure data from BEML machines to cloud database which can be found [here](https://github.com/utkarsh-1905/Makeathon-Submisson).
+- 🚀 I have made some cool projects including an [Terminal Chat App](https://github.com/utkarsh-1905/node-cli-project). :artificial_satellite: and a [Discord Bot](https://github.com/utkarsh-1905/mot-bot-discord) 🤖, a server in Golang and a wireless and secure protocol to transfer secure data from BEML machines to cloud database which can be found [here](https://github.com/utkarsh-1905/Makeathon-Submisson).
 - 🌠 Recently, I won a Hackathon by MLSC, TIET, Patiala.
-- 🧑‍💻 Learning Blockchain developement and using solidity to create smart contracts.
+- 🧑‍💻 Learning DevOps and Blockchain
 - 📚 Always trying to learn new technologies and frameworks and programming paradigms.
 - 📝 Currently, I am **interning** at Enterprof as a Blockchain developer.
 
@@ -36,12 +37,15 @@ Hey 👋,I am an engineering student and a software developer with experience in
 **Skills ⛰️**
 
 - 💻 Node.js **(Express.js)**
+- Golang
+- Docker
 - Javascript
 - React.js
 - Solidity
 - Ethereum, Truffle, Hardhat
 - MongoDB
 - Tailwind CSS & Bootstrap
+- C/C++
 - 📝 HTML & CSS
 - Postman Student Expert **(API Testing)**
 </div>
