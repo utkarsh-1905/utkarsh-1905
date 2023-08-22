@@ -17,37 +17,28 @@
 </div>
 
 <div style="margin-top:50px">
-Hey 👋,I am an engineering student and a software developer with experience in Node.js.
-
+Hey 👋,I am an engineering student and a problem solver.
 **About Me 🧑**
 
 - 🤠 He/Him
-- 📕 Currently, I am studying Electronics and Computer engineering.
-- 💻 I am Web3 developer with a passion for learning new technologies and solving problems in this emerging feild.
-- 📖 Publishing blogs on [Medium](https://medium.com/@utripathi2002).
-- 🌐 I am a huge fan of the open source ecosystem and I love contributing to open source projects.
-- 🚀 I have made some cool projects including an [Terminal Chat App](https://github.com/utkarsh-1905/node-cli-project). :artificial_satellite: and a [Discord Bot](https://github.com/utkarsh-1905/mot-bot-discord) 🤖, a server in Golang and a wireless and secure protocol to transfer secure data from BEML machines to cloud database which can be found [here](https://github.com/utkarsh-1905/Makeathon-Submisson).
-- 🌠 Recently, I won a Hackathon by MLSC, TIET, Patiala.
-- 🧑‍💻 Learning DevOps and Blockchain
-- 📚 Always trying to learn new technologies and frameworks and programming paradigms.
-- 📝 Currently, I am **interning** at Enterprof as a Blockchain developer.
-
-* :handshake: I'm looking to collaborate with other developers and designers to create front-end and back-end applications.
+- 📕 Currently, I am studying Computer engineering.
+- 📖 Publishing blogs on [Medium](https://utkarssh.tech/blogs).
+- 🌐 I am a massive fan of the open-source ecosystem and love contributing to open-source projects.
+- Working on new problems every day.
+- Pondering upon how to create unique and viable solutions.
+* :handshake: I want to collaborate with other developers and designers to create unique products.
 
 **Skills ⛰️**
 
-- 💻 Node.js **(Express.js)**
+- Node.js
 - Golang
+- Python
 - Docker
 - Javascript
 - React.js
 - Solidity
 - Ethereum, Truffle, Hardhat
-- MongoDB
-- Tailwind CSS & Bootstrap
 - C/C++
-- 📝 HTML & CSS
-- Postman Student Expert **(API Testing)**
 </div>
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/-ZD1vazFQWedkt3jT44vwg?identity__email=utripathi2002%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/-ZD1vazFQWedkt3jT44vwg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman Student Expert</p></blockquote>
 <hr/>
