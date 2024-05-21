@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/utkarsh-tripathi-80a0ab192/" style="margin:20px">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/utkarsh-1905" style="margin:20px"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://x.com/utripathi2002" style="margin:20px"><img src="https://img.shields.io/twitter/follow/utripathi2002?style=flat-square&logoColor=white" />
 </a>
 <a href="https://medium.com/@utripathi2002" style="margin:20px"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
@@ -28,20 +28,40 @@ Hey 👋,I am an engineering student and a problem solver.
 - Pondering upon how to create unique and viable solutions.
 * :handshake: I want to collaborate with other developers and designers to create unique products.
 
-**Skills ⛰️**
+```yaml
+name: Utkarsh Tripathi
+email: utripathi2002@gmail.com
+links:
+    - https://linkedin.com/utripathi1905
+    - https://github.com/utkarsh-1905
+    - https://x.com/utripathi2002
+    - https://utkarssh.tech
+uni: 'Thapar University'
+skills:
+    - Backend
+        - Node.js
+        - Golang
+        - DRF
+    - Frontend
+        - Next.js
+        - React.js
+        - SvelteKit
+    - Cloud-Native Tech Stack
+        - [AWS, GCP, Oracle Cloud]
+        - [Kubernetes, Docker, Podman]
+        - [Traefik, HAProxy, Kong Gateway, APISIX]
+        - [Bash Scripting, Helm]
+    - Databases
+        - [MongoDB, Postgres, MySQL, CouchDB]
+    - Web3
+        - [Solidity,Rust]
+        - [Ethereum, Polygon, Solana, L2 solutions]
+        - [DWNs, Verifiable Creds]
+```
 
-- Node.js
-- Golang
-- Python
-- Docker
-- Javascript
-- React.js
-- Solidity
-- Ethereum, Truffle, Hardhat
-- C/C++
 </div>
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/-ZD1vazFQWedkt3jT44vwg?identity__email=utripathi2002%40gmail.com"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/-ZD1vazFQWedkt3jT44vwg/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word;margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman Student Expert</p></blockquote>
-<hr/>
+<!-- <hr/>
 <div style="display:flex;flex-direction:row;justify-content:space-evenly;align-items:center;widht:100%">
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -62,13 +82,13 @@ Hey 👋,I am an engineering student and a problem solver.
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
-<hr/>
+<hr/> -->
 
 <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-1905&theme=gotham&hide_border=true"/>
 <!-- <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api?username=utkarsh-1905&count_private=true&show_icons=true&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&icon_color=313552&custom_title=My Github Stats"/> -->
 <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-1905&layout=compact&bg_color=80,c9ffbf,ffafbd&text_color=886f6f&title_color=313552"/>
-<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=utkarsh1905&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&v=2"/>
-<img style="margin-bottom:20px;display:flex;flex:1" src="https://activity-graph.herokuapp.com/graph?username=utkarsh-1905&theme=xcode&hide_title=true&area=true"/>
-<img style="margin-bottom:20px;display:flex;flex:1" src="https://raw.githubusercontent.com/utkarsh-1905/utkarsh-1905/output/github-contribution-grid-snake.svg" />
+<!-- <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=utkarsh1905&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&v=2"/> -->
+<!-- <img style="margin-bottom:20px;display:flex;flex:1" src="https://activity-graph.herokuapp.com/graph?username=utkarsh-1905&theme=xcode&hide_title=true&area=true"/> -->
+<!-- <img style="margin-bottom:20px;display:flex;flex:1" src="https://raw.githubusercontent.com/utkarsh-1905/utkarsh-1905/output/github-contribution-grid-snake.svg" /> -->
 </body>
 </html>
